@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![@valak_'s Holopin board](https://holopin.io/api/user/board?user=valak_)](https://holopin.io/@valak_)
+I'm Aryan
+- 🔭 I’m currently working on Meme Generator
+- 🌱 I’m currently learning React Hooks
+
 
 <!--
 **valak-69/valak-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
